@@ -7,6 +7,11 @@ Income Management: Keep track of income sources.
 Reports & Analytics: Visualize your spending habits with charts and summaries.
 Add Custom Categories: You can manage categories very easily.
 
+# 💻 How it works
+The app generated 2 files:
+- categories.json - Where the categories for income and expenses are stored;
+- finances.json - Where all the records are stored;
+
 # 🛠️ Installation
 Clone the Repository
 
@@ -16,3 +21,4 @@ cd simple-personal-finance-manager
 
 ```py
 python finance_calculator.py
+
